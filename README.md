@@ -15,12 +15,12 @@ This project analyzes a housing dataset from the USA using SQL. The dataset cont
 
 ## SQL Clause/Functions/Statements Used:
 
-GROUP BY, ORDER BY, WHERE, ROUND, MIN, MAX, AVG, COUNT
-Common Table Expressions (CTEs)
-Window Functions (RANK(), PARTITION BY)
-CASE Statements
-Subqueries
-Aliasing and Conditional Filtering
+- GROUP BY, ORDER BY, WHERE, ROUND, MIN, MAX, AVG, COUNT
+- Aliasing and Conditional Filtering
+- Window Functions (RANK(), PARTITION BY)
+- CASE Statements
+- Subqueries
+- Common Table Expressions (CTEs)
 
 ## Key Insights and Analyses
 ### 1. Total Entries in the Dataset
